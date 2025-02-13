@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "2",
+      "title": "Front-End Engineer (Vue)",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "location": "Miami, FL",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6b41",
+      "type": "Part-Time",
+      "title": "Nero Bates",
+      "description": "Aperiam corporis omn",
+      "salary": "$90K - $100K",
+      "location": "Sit deleniti laborum",
+      "company": {
+        "name": "Monroe Mcknight Trading",
+        "description": "Autem asperiores ut ",
+        "contactEmail": "zulihoky@mailinator.com",
+        "contactPhone": "+1 (811) 766-2822"
+      }
+    },
+    {
+      "id": "c575",
+      "type": "Part-Time",
+      "title": "Asher Bender",
+      "description": "Accusantium enim tem",
+      "salary": "$80K - $90K",
+      "location": "Neque dolorem simili",
+      "company": {
+        "name": "Vinson Hayes Trading",
+        "description": "Voluptatem autem eaq",
+        "contactEmail": "qezozobi@mailinator.com",
+        "contactPhone": "+1 (308) 319-8446"
+      }
+    }
+  ]
+}
